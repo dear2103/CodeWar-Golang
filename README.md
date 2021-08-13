@@ -82,14 +82,14 @@ Terminal game move function. In this game, the hero moves from left to right. Th
 > Example:
 - move(3, 6) should equal 15
 ## Ex16
-[Is this a triangle?](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/IsThisATriangle.go)
+[Is this a triangle? <7kyu>](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/IsThisATriangle.go)
 Implement a method that accepts 3 integer values a, b, c. The method should return true if a triangle can be built with the sides of given length and false in any other case. (In this case, all triangles must have surface greater than 0 to be accepted).
 ## Ex17
-[Breaking chocolate problem](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/BreakingChocolateProblem.go)
+[Breaking chocolate problem <7kyu>](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/BreakingChocolateProblem.go)
 Your task is to split the chocolate bar of given dimension n x m into small squares. Each square is of size 1x1 and unbreakable. Implement a function that will return minimum number of breaks needed.
 > For example if you are given a chocolate bar of size 2 x 1 you can split it to single squares in just one break, but for size 3 x 1 you must do two breaks. If input data is invalid you should return 0 (as in no breaks are needed if we do not have any chocolate to split). Input will always be a non-negative integer.
 ## Ex18
-[Make a function that does arithmetic!](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/MakeAFunctionThatDoesArithmetic.go)
+[Make a function that does arithmetic! <7kyu>](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/MakeAFunctionThatDoesArithmetic.go)
 Given two numbers and an arithmetic operator (the name of it, as a string), return the result of the two numbers having that operator used on them. **a** and **b** will both be positive integers, and **a** will always be the first number in the operation, and **b** always the second. The four operators are "add", "subtract", "divide", "multiply".
 > A few examples:
 - Arithmetic(5, 2, "add")      => returns 7
@@ -98,7 +98,7 @@ Given two numbers and an arithmetic operator (the name of it, as a string), retu
 - Arithmetic(5, 2, "divide")   => returns 2
   > Try to do it without using if statements!
 ## Ex19
-[Over The Road](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/OverTheRoad.go) 
+[Over The Road <7kyu>](https://github.com/hoangyen-2103/CodeWar-Golang/blob/main/OverTheRoad.go) 
 > Task
 You've just moved into a perfectly straight street with exactly n identical houses on either side of the road. Naturally, you would like to find out the house number of the people on the other side of the street. The street looks something like this:
 - 1|   |6
@@ -116,7 +116,7 @@ Given your house number address and length of street n, give the house number on
 If you are timing out, running out of memory, or get any kind of "error", read on. Both n and address could get upto 500 billion with over 200 random tests. If you try to store the addresses of 500 billion houses in a list then you will run out of memory and the tests will crash. This is not a kata problem so please don't post an issue. Similarly if the tests don't complete within 12 seconds then you also fail.
 > To solve this, you need to think of a way to do the kata without making massive lists or huge for loops. Read the discourse for some inspiration :)
 ## Ex20
-[Complementary DNA](https://github.com/dear2103/CodeWar-Golang/blob/main/ComplementaryDNA.go)
+[Complementary DNA <7kyu>](https://github.com/dear2103/CodeWar-Golang/blob/main/ComplementaryDNA.go)
 Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 > If you want to know more: http://en.wikipedia.org/wiki/DNA
 
